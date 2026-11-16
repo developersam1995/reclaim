@@ -1,0 +1,12 @@
+# build output
+/bin/
+
+# private documents and media (kept out of the repo on purpose)
+*.docx
+*.mp4
+*.webm
+*.mkv
+*.mov
+
+# local tooling
+.venv/
